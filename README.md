@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnaTerceiro
-- 👀 I'm Technologist in Systems Analysis and Development from Universidade Anhembi Morumbi. And I'm trained in Software Testing by Iterasys. I’m interested in Development, Data Analysis and data science using Python.
-- 🌱 I’m currently learning web programming languages.
-- 💞️ I’m a collaborate on Womanews project and looking for a job.
+- 👀 I am a graduate student in International Relations at the Federal University of Sergipe. Training in Software Testing and studying Python, Data Science and Software Test Automation with Python
+- 🌱 I’m currently learning Python
+- 💞️ I volunteer for the @wonews project. I'm part of the https://ceuroufs.wordpress.com/ research group at UFS and I'm looking for the first opportunity in the technology market
 - 📫 How to reach me: on Instagram with @moongirl.study and Linkedin: https://www.linkedin.com/in/anna-carolina-dos-santos-terceiro-154a00176/
