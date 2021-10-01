@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AnnaTerceiro
-- 👀 I am a graduate student in International Relations at the Federal University of Sergipe. Training in Software Testing and studying Python, Data Science and Software Test Automation with Python
-- 🌱 I’m currently learning Python
+- 👀 I am a graduate student in International Relations at the Federal University of Sergipe. Training in Data Engineer. 
 - 💞️ I volunteer for the @wonews project. I'm part of the https://ceuroufs.wordpress.com/ research group at UFS and I'm looking for the first opportunity in the technology market
 - 📫 How to reach me: on Instagram with @moongirl.study and Linkedin: https://www.linkedin.com/in/anna-carolina-dos-santos-terceiro-154a00176/
