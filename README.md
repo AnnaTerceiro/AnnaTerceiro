@@ -1,4 +1,4 @@
-## Oiii eu sou a Anna Terceiro! Engenheira de dados e graduanda em Relações Internacionais!
+## Olá, eu sou a Anna Terceiro! Analista de dados!
 <div align="center">
   <a href="https://github.com/annaterceiro">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=annaterceiro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
